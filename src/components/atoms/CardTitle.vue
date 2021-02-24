@@ -7,11 +7,11 @@ export default {
 };
 </script>
 <style scoped>
-.title-label {
+/* .title-label {
   font-size: 20px;
   font-weight: bold;
   color: grey;
   padding-bottom: 3px;
   border-bottom: solid 2px #3280f57e;
-}
+} */
 </style>

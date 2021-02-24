@@ -7,9 +7,9 @@ export default {
 };
 </script>
 <style scoped>
-.number-label {
+/* .number-label {
   text-align: center;
   margin-top: 30px;
   font-size: 40px;
-}
+} */
 </style>
